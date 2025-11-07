@@ -1,0 +1,7 @@
+numpy
+py-cord
+'py-cord['voice']'
+beaupy
+audioop-lts
+yt-dlp
+PyNaCl
